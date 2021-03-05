@@ -3,5 +3,23 @@
     "axios": "^0.21.1",
     "express": "^4.17.1",
     "hbs": "^4.1.1"
-  }
+  },
+  "name": "dondondonki",
+  "description": "dondondonki",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hwchw316/dondondonki.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hwchw316/dondondonki/issues"
+  },
+  "homepage": "https://github.com/hwchw316/dondondonki#readme"
 }
